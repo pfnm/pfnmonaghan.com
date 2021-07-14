@@ -4,4 +4,4 @@
 
 layout: home
 ---
-text test
+HELP ME
