@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-hello 
+Peter Monaghan is a freelance author, documentarian, and web developer. He likes to keep things simple, happy, and functional.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Golimetry.com
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Contact: peter@pfnmonaghan.com
