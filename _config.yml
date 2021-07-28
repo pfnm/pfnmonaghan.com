@@ -22,7 +22,7 @@ title: PFN Monaghan
 email: peter@pfnmonaghan.com
 description: >- # this means to ignore newlines until "baseurl:"
   Peter Monaghan is a freelance author, documentarian, and web developer. He likes to keep things simple, happy, and functional.
-Golimetry.com
+  Golimetry.com
 Contact: peter@pfnmonaghan.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "pfnmonaghan.com" # the base hostname & protocol for your site, e.g. http://example.com
