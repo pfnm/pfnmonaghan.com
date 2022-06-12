@@ -4,5 +4,5 @@ title: Test
 permalink: /test/
 ---
 
-# test
+# tested
 Have we passed the test ? We will see - maybe
