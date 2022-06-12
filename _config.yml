@@ -21,8 +21,7 @@
 title: PFN Monaghan
 email: pete@pfnmonaghan.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Peter Monaghan is an author, researcher and documentarian. He is the founder and editor of Golimetry Football (Chronicles of the Copa Libertadores). He likes deep dives, exploring a plethora of fields: chemistry, history, football, religion, business, combat. And more.
-  Golimetry.com
+  Peter Monaghan is an author, researcher and documentarian.
 Contact: pete@pfnmonaghan.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "pfnmonaghan.com" # the base hostname & protocol for your site, e.g. http://example.com
